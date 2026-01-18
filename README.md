@@ -1,7 +1,6 @@
 
 [![An image of @mohitkourav01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitkourav01)](https://holopin.io/@mohitkourav01)
 
-
 # About Me: ⚡️
 
 **Full Stack Developer and B.Tech in AI and ML student passionate about building scalable, efficient, and intuitive digital
@@ -18,7 +17,8 @@ performance, and clean code. Open-source contributor driven by innovation, colla
 
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-mohit-kourav/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitdas852@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-mohit-kourav/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitdas852@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mohit__.__) 
+
 
 
 ### Tech Stack:
