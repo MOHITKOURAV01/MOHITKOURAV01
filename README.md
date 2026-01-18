@@ -1,10 +1,12 @@
+
+[![An image of @mohitkourav01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitkourav01)](https://holopin.io/@mohitkourav01)
+
+
 # About Me: ⚡️
 
-**Full Stack Developer and B.Tech in AI & ML student who loves turning ideas into usable, real-world products.** Passionate about building scalable web and mobile apps, writing clean, maintainable code, and solving practical problems with technology.
-
-**Mostly work on full-stack projects with modern JavaScript, REST APIs, and relational/NoSQL databases.** Enjoy contributing to open-source and collaborative projects.
-
-**Currently exploring system design, backend architecture, and performance-focused UI patterns.** Happy to discuss JavaScript, React, React Native, Node.js, SQL, MongoDB, and API design!
+**Full Stack Developer and B.Tech in AI and ML student passionate about building scalable, efficient, and intuitive digital
+solutions. Experienced in developing real-world projects and role-based systems with a focus on backend architecture, frontend
+performance, and clean code. Open-source contributor driven by innovation, collaboration, and continuous learning.**
 ​
 
 <img
