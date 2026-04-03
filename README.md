@@ -32,9 +32,9 @@ performance, and clean code. Open-source contributor driven by innovation, colla
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MOHITKOURAV01&theme=vision-friendly-dark)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MOHITKOURAV01&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITKOURAV01&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=MOHITKOURAV01&theme=vision-friendly-dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MOHITKOURAV01&theme=vision-friendly-dark)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MOHITKOURAV01&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
