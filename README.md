@@ -18,26 +18,5 @@
 
 ---
 
-### GitHub Activity:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MOHITKOURAV01&show_icons=true&theme=vision-friendly-dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHITKOURAV01&theme=vision-friendly-dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MOHITKOURAV01&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<br/>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
